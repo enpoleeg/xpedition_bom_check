@@ -6,3 +6,8 @@ Check proper quantity in BOM by counting refdes quantity
 ```
 main.py %bom.xlsx% %refdes_column% %qty_column%
 ```
+## Dependencies
+pylightxl lib:
+```
+pip install pylightxl
+```
